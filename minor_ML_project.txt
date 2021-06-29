@@ -1,0 +1,51 @@
+NAME-SIRAT SINGH ANAND
+SUBJECT-ML MINOR APRIL-PROJECT(ANSWERS)
+
+Q1-LIST OF CITIES AND PENDING ORDERS IN INDIA
+
+Kanpur          25
+Pune            24
+Bangalore       24
+Lucknow         21
+Delhi           18
+                ..
+Ichalkaranji     1
+Bilaspur         1
+Aurangabad       1
+Patiala          1
+Jamnagar         1
+
+**************************************************************************
+
+Q2-COUNTRY WITH MOST SUSPECTED FRAUD
+
+Estados Unidos     573
+Francia            362
+México             317
+Alemania           227
+Australia          197
+                  ... 
+Uzbekistán           1
+Costa de Marfil      1
+Benín                1
+Jamaica              1
+Bangladés    
+
+ANSWER--->ESTADOS UNIDOS
+
+***************************************************************************
+
+Q4- YEAR WITH MINIMUM NIKE PRODUCT SALES
+
+ANSWER----->2018
+
+****************************************************************************
+
+Q5-SUCCESSFULLY PROCESSED ORDERS WITH DAYS OF SHIPPING(REAL)>DAYS OF SHIPMENT(SHEDULED)
+
+True     34199
+False    25292
+
+ANSWER---->34199
+
+****************************************************************************
